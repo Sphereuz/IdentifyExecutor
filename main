@@ -1,0 +1,5 @@
+local sigmaSpheruz = identifyexecutor and identifyexecutor() or "No" --- "No" means it coul not get executor name
+
+print("Executer: " .. sigmaSpheruz) ---change executer to what you like just make sure it in green ""
+
+--- change sigmaSpheruz to what you liking if you want me name off name to executerName or somthing
